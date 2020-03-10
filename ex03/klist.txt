@@ -1,0 +1,5 @@
+Credentials cache: API:6C452BB1-9E08-44AE-9447-FE02EC68C15B
+        Principal: dmanis@42.FR
+
+  Issued                Expires               Principal
+Mar  9 14:36:23 2020  Mar 16 14:36:23 2020  krbtgt/42.FR@42.FR
